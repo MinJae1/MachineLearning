@@ -78,7 +78,7 @@ print("test accuracy %g"% sess.run(accuracy, feed_dict={
 ```
 
 ###결과
-![Result](/img/result3.png)
+![Result](result3.png)
 
 ---
 
@@ -215,7 +215,7 @@ with tf.Session() as sess:
 ```
 
 ###결과
-![Result](/img/result1.png)
+![Result](result1.png)
 
 ---
 
@@ -269,7 +269,7 @@ with tf.Session() as sess:
 ```
 
 ###결과
-![Result](/img/result2.png)
+![Result](result2.png)
 
 ---
 
@@ -544,9 +544,9 @@ print('correct sign prediction for close - open price for train/valid/test: %.2f
 ```
 
 ###결과
-![Figure](/img/Figure_1.png)
-![Figure](/img/Figure_2.png)
-![Result](/img/result4.png)
+![Figure](Figure_1.png)
+![Figure](Figure_2.png)
+![Result](result4.png)
 
 ---
 
@@ -656,6 +656,6 @@ print(X_test_t)
 ```
 
 ###결과
-![Result](/img/result5.png)
-![Result](/img/result6.png)
-![Result](/img/result7.png)
+![Result](result5.png)
+![Result](result6.png)
+![Result](result7.png)
