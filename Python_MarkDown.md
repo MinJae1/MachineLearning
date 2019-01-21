@@ -78,7 +78,7 @@ print("test accuracy %g"% sess.run(accuracy, feed_dict={
 ```
 
 ###결과
-![Result](./img/result3.png)
+![result3](https://user-images.githubusercontent.com/44955928/51452091-def08b80-1d7b-11e9-9cbb-3a319691626f.PNG)
 
 ---
 
@@ -215,7 +215,7 @@ with tf.Session() as sess:
 ```
 
 ###결과
-![Result](./img/result1.png)
+![result1](https://user-images.githubusercontent.com/44955928/51452063-c1232680-1d7b-11e9-8681-ff606718c090.PNG)
 
 ---
 
@@ -269,7 +269,7 @@ with tf.Session() as sess:
 ```
 
 ###결과
-![Result](./img/result2.png)
+![result2](https://user-images.githubusercontent.com/44955928/51452077-d0a26f80-1d7b-11e9-9096-b330f46985f0.PNG)
 
 ---
 
@@ -544,9 +544,10 @@ print('correct sign prediction for close - open price for train/valid/test: %.2f
 ```
 
 ###결과
-![Figure](./img/Figure_1.png)
-![Figure](./img/Figure_2.png)
-![Result](./img/result4.png)
+![figure_1](https://user-images.githubusercontent.com/44955928/51452025-90db8800-1d7b-11e9-8414-62a2012ce948.png)
+![figure_2](https://user-images.githubusercontent.com/44955928/51452043-a81a7580-1d7b-11e9-8548-da1ce749cff0.png)
+![result4](https://user-images.githubusercontent.com/44955928/51452053-b4063780-1d7b-11e9-9baf-703d130f6cb4.PNG)
+
 
 ---
 
@@ -656,6 +657,6 @@ print(X_test_t)
 ```
 
 ###결과
-![Result](./img/result5.png)
-![Result](./img/result6.png)
-![Result](./img/result7.png)
+![result5](https://user-images.githubusercontent.com/44955928/51452096-eca61100-1d7b-11e9-9e9c-912bef6cf82e.PNG)
+![result6](https://user-images.githubusercontent.com/44955928/51452109-f62f7900-1d7b-11e9-9266-91c54ffc7c15.PNG)
+![result7](https://user-images.githubusercontent.com/44955928/51452111-f760a600-1d7b-11e9-9e42-1e61d6c24079.PNG)
