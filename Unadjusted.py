@@ -3,7 +3,7 @@ import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
 
-df = pd.read_csv('data/cansim-0800020-eng-6674700030567901031.csv',
+df = pd.read_csv('cansim-0800020-eng-6674700030567901031.csv',
                  skiprows=6, skipfooter=9,
                  engine='python')
 df.head()
@@ -61,7 +61,7 @@ y_train = y_train.values
 y_test = y_test.values
 print(X_train.shape)
 print(X_train)
-print(y_train_shape)
+# print(y_train_shape)
 print(y_train)
 
 
